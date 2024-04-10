@@ -21,7 +21,7 @@ export default function Home() {
         <Nav />
         <Text />
         <Cons />
-        <div>hello</div>
+        
       </main>
       
     </>
